@@ -21,7 +21,7 @@
 title: Corona Blog
 email: coronakaiblog@web.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog über die CoViD-19-Epidemie in Deutschland und insbesonderen MV.
+  Blog über die CoViD-19-Epidemie in Deutschland und insbesondere MV.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
